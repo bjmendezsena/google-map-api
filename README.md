@@ -14,3 +14,5 @@ para instalar los modulos ejecutar `npm i` en la carpeta del proyecto
 
 
 Contiene varias pruebas unitarias.
+
+Link del despliegue: https://bjmendezsena.github.io/google-map-api/
