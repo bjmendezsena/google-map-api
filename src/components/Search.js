@@ -1,7 +1,6 @@
 import React from "react";
 import { Combobox } from "@reach/combobox";
 import { useAutocomplete } from "../customHooks/useAutocomplete";
-import { options } from "../helpers/constants";
 export const Search = ({ mapRef }) => {
   const [ready, value, status, data, setValue, onSelect] = useAutocomplete(
     mapRef

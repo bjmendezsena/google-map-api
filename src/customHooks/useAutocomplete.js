@@ -4,7 +4,7 @@ import usePlacesAutocomplete  ,{
     getLatLng,
   } from "use-places-autocomplete";
 import { center } from "../helpers/constants";
-import { useDispatch , useSelector} from "react-redux";
+import { useDispatch } from "react-redux";
 import { addMarker } from "../actions/markerActions";
 
 export const useAutocomplete = (mapRef) => {
