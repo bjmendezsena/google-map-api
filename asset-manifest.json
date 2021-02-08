@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/google-map-api/static/css/main.df7aadeb.chunk.css",
+    "main.js": "/google-map-api/static/js/main.62efe25e.chunk.js",
+    "main.js.map": "/google-map-api/static/js/main.62efe25e.chunk.js.map",
+    "runtime-main.js": "/google-map-api/static/js/runtime-main.f099092f.js",
+    "runtime-main.js.map": "/google-map-api/static/js/runtime-main.f099092f.js.map",
+    "static/css/2.8d682a32.chunk.css": "/google-map-api/static/css/2.8d682a32.chunk.css",
+    "static/js/2.8d494072.chunk.js": "/google-map-api/static/js/2.8d494072.chunk.js",
+    "static/js/2.8d494072.chunk.js.map": "/google-map-api/static/js/2.8d494072.chunk.js.map",
+    "index.html": "/google-map-api/index.html",
+    "static/css/2.8d682a32.chunk.css.map": "/google-map-api/static/css/2.8d682a32.chunk.css.map",
+    "static/css/main.df7aadeb.chunk.css.map": "/google-map-api/static/css/main.df7aadeb.chunk.css.map",
+    "static/js/2.8d494072.chunk.js.LICENSE.txt": "/google-map-api/static/js/2.8d494072.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f099092f.js",
+    "static/css/2.8d682a32.chunk.css",
+    "static/js/2.8d494072.chunk.js",
+    "static/css/main.df7aadeb.chunk.css",
+    "static/js/main.62efe25e.chunk.js"
+  ]
+}
