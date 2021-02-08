@@ -1,6 +1,5 @@
 import { useLoadScript } from "@react-google-maps/api";
 import { useCallback} from "react";
-import { GOOGLE_MAPS_API_KEY } from "../helpers/constants";
 
 export const useMap = (mapRef) => {
 
